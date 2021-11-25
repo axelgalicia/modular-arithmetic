@@ -1,0 +1,1 @@
+void print_mod_numbers(int module, int cycles);
