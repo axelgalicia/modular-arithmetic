@@ -1,0 +1,11 @@
+{
+  "name": "modular-arithmetic",
+  "version": "1.0.0",
+  "description": "A Module to learn Modular Arithmetic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Axel Galicia",
+  "license": "ISC"
+}
